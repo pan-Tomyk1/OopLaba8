@@ -1,0 +1,6 @@
+C:\Users\kiivs\RiderProjects\OopLaba8\OopLaba8\obj\Debug\OopLaba8.csproj.AssemblyReference.cache
+C:\Users\kiivs\RiderProjects\OopLaba8\OopLaba8\obj\Debug\OopLaba8.csproj.CoreCompileInputs.cache
+C:\Users\kiivs\RiderProjects\OopLaba8\OopLaba8\bin\Debug\OopLaba8.exe
+C:\Users\kiivs\RiderProjects\OopLaba8\OopLaba8\bin\Debug\OopLaba8.pdb
+C:\Users\kiivs\RiderProjects\OopLaba8\OopLaba8\obj\Debug\OopLaba8.exe
+C:\Users\kiivs\RiderProjects\OopLaba8\OopLaba8\obj\Debug\OopLaba8.pdb
